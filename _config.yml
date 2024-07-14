@@ -109,5 +109,5 @@ symbols_count_time:
 ## Docs: https://hexo.io/docs/one-command-deployment
 deploy:
   type: git
-  repository: https://github.com/Without0You/Without0You.github.io.git  #你的仓库地址
+  repository: https://github.com/Without0You/Aeonblog.git  #你的仓库地址
   branch: main
